@@ -8,10 +8,12 @@ Showcase your work in a clean, distraction-free environment — ideal for portfo
 Use PixeoSphere to maintain a visual brand presence without the noise of DMs or stories. Perfect for campaigns, product previews, and fan engagement.
 
 🔹 For Communities
-Create niche visual spaces (e.g., art, fashion, travel) where users can connect through content, not chat.
+Create niche visual spaces (e.g., art, fashion, travel) where users can connect through content, not chat.  
 
 
-🚀 Features
+
+🚀 Features  
+
 🖼️ Image Upload & Feed
 Users can upload images and view a feed of posts from others.
 
