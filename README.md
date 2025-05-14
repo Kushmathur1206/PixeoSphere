@@ -10,8 +10,24 @@ Use PixeoSphere to maintain a visual brand presence without the noise of DMs or 
 🔹 For Communities
 Create niche visual spaces (e.g., art, fashion, travel) where users can connect through content, not chat.
 
-🔹 As a Learning Platform
-Students or aspiring devs can use this project to understand how full-stack photo-sharing apps work — including routing, storage, UI/UX, and more.
+
+🚀 Features
+🖼️ Image Upload & Feed
+Users can upload images and view a feed of posts from others.
+
+🧑‍💻 User Profiles
+Each user has a personal profile with their uploaded content and bio.
+
+❤️ Likes and Engagement
+Simple interactions through likes to appreciate others' content.
+
+📁 Organized Content
+Posts can be tagged and categorized for easier browsing.
+
+🌐 Clean & Responsive UI
+Built with Tailwind and React for a modern, mobile-friendly interface.
+
+
 
 
 ![Screenshot (1372)](https://github.com/Kushmathur1206/PixeoSphere/assets/99969817/42dab982-2a90-400e-ad5f-c44a861d6388)
