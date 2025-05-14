@@ -14,17 +14,17 @@ Create niche visual spaces (e.g., art, fashion, travel) where users can connect 
 
 🚀 Features  
 
-🖼️ Image Upload & Feed
-Users can upload images and view a feed of posts from others.
+- 🖼️ Image Upload & Feed
+  Users can upload images and view a feed of posts from others.
 
-🧑‍💻 User Profiles
-Each user has a personal profile with their uploaded content and bio.
+- 🧑‍💻 User Profiles
+  Each user has a personal profile with their uploaded content and bio.
 
-❤️ Likes and Engagement
-Simple interactions through likes to appreciate others' content.
+- ❤️ Likes and Engagement
+  Simple interactions through likes to appreciate others' content.
 
-🌐 Clean & Responsive UI
-Built with Tailwind and React for a modern interface.
+- 🌐 Clean & Responsive UI
+  Built with Tailwind and React for a modern interface.
 
 
 
