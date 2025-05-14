@@ -21,11 +21,8 @@ Each user has a personal profile with their uploaded content and bio.
 ❤️ Likes and Engagement
 Simple interactions through likes to appreciate others' content.
 
-📁 Organized Content
-Posts can be tagged and categorized for easier browsing.
-
 🌐 Clean & Responsive UI
-Built with Tailwind and React for a modern, mobile-friendly interface.
+Built with Tailwind and React for a modern interface.
 
 
 
