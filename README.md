@@ -1,6 +1,6 @@
 # Pixosphere
 
-📸 Use Cases
+📸 Use Cases  
 🔹 For Creators & Photographers
 Showcase your work in a clean, distraction-free environment — ideal for portfolios or personal branding.
 
