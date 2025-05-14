@@ -26,7 +26,8 @@ Create niche visual spaces (e.g., art, fashion, travel) where users can connect 
   Built with Tailwind and React for a modern interface.
 
 <br>
-🛠️ Tech Stack <br> 
+🛠️ Tech Stack 
+<br> 
 - Frontend: React, Tailwind CSS, Vite
 - Backend Services: Appwrite (Authentication, Storage, Database)
 
